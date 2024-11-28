@@ -1,7 +1,7 @@
 # NoSQL-Learning
 
 Welcome to Anish's-MongoDB(NoSQL) Learning Repository!<br>
-This repository documents my learning journey with MongoDB, a powerful NoSQL database. <br>Here, you'll find resources covering a wide range of topics, including:
+This repository documents my learning journey with MongoDB, a powerful NoSQL database.<br>I'm using MongoDB Compass, MongoDB Shell, and Studio 3T.<br>Here, you'll find resources covering a wide range of topics, including:
 
 Key Topics Covered:
 
