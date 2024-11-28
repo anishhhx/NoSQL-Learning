@@ -1,7 +1,7 @@
 # NoSQL-Learning
 
 Welcome to Anish-MongoDB(NoSQL) Learning Repository!<br>
-Dive into the world of NoSQL databases with MongoDB! This repository is your one-stop shop for mastering MongoDB concepts, from the basics to advanced techniques.
+This repository documents my learning journey with MongoDB, a powerful NoSQL database. <br>Here, you'll find resources covering a wide range of topics, including:
 
 Key Topics Covered:
 
