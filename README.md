@@ -5,12 +5,12 @@ Dive into the world of NoSQL databases with MongoDB! This repository is your one
 
 Key Topics Covered:
 
-MongoDB Fundamentals:
+MongoDB Fundamentals:<br>
 Installation and Setup
 Basic CRUD Operations (Create, Read, Update, Delete)
 Data Modeling with MongoDB
 Querying Data with MongoDB Query Language<br>
-Advanced MongoDB Concepts:
+Advanced MongoDB Concepts:<br>
 Aggregation Framework
 Indexing
 Sharding
